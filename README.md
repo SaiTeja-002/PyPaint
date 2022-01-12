@@ -11,3 +11,4 @@ The following features will be implemented in the upcoming versions:
 - Undo/Redo
 - Drawing various shapes.
 - Scrollbar to extend the canvas.
+- A dialog box to enter the file name while saving rather than the console input.
