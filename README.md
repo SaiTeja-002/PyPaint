@@ -8,7 +8,9 @@ This is a paint application made using pygame. It has the following basic featur
 - Save the drawing into any desired file format.
 
 The following features will be implemented in the upcoming versions:
-- Undo/Redo
+- Undo/Redo.
 - Drawing various shapes.
 - Scrollbar to extend the canvas.
 - A dialog box to enter the file name while saving rather than the console input.
+- Gallery of saved paintings.
+- Doodling on an existing image rather than a plain canvas.
