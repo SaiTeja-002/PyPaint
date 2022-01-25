@@ -9,7 +9,7 @@ This is a paint application made using pygame. It has the following basic featur
 - Save the drawing in any desired file format to a folder called "Gallery" in the main folder.
 
 ## Instructions
-- Clicking the "clear" button on top of the canvas or pressing 'c' is used to clear the screen.
+- Clicking the "clear" button on top of the canvas or pressing 'c' will clear the canvas.
 - Pressing 'u' will undo the action.
 - Pressing 'r' will redo the action.
 - Pressing 's' will save the drawing as an image.
